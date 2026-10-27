@@ -1,0 +1,98 @@
+[
+  {
+    "id": "g1-1",
+    "text": "老周知道“结算”是什么，但话到嘴边说不出口，暗示存在封口令或禁制。",
+    "plantedAt": 1,
+    "dueBy": 10,
+    "paidAt": null,
+    "importance": 3
+  },
+  {
+    "id": "g1-2",
+    "text": "神秘女骑手知道陈默右手灰线的秘密，且知道江滨那单他倒回过一次，她的身份和目的未明。",
+    "plantedAt": 1,
+    "dueBy": 8,
+    "paidAt": null,
+    "importance": 3
+  },
+  {
+    "id": "g2-1",
+    "text": "老周说“还剩五天”，暗示某个期限正在逼近。",
+    "plantedAt": 2,
+    "dueBy": 7,
+    "paidAt": 4,
+    "importance": 2
+  },
+  {
+    "id": "g2-2",
+    "text": "林昭左腕的深红裂痕数量未知，与陈默灰线的关系未明。",
+    "plantedAt": 2,
+    "dueBy": 8,
+    "paidAt": 4,
+    "importance": 2
+  },
+  {
+    "id": "g3-1",
+    "text": "陈默追问“满十二道呢”，老周始终说不出口，只以咳嗽和指喉咙回应，暗示封口令或禁制。",
+    "plantedAt": 3,
+    "dueBy": 10,
+    "paidAt": null,
+    "importance": 3
+  },
+  {
+    "id": "g3-2",
+    "text": "断头巷墙根“先走的”人形与陈默同款头盔、餐箱，其身份和“先走”的去向未明。",
+    "plantedAt": 3,
+    "dueBy": 8,
+    "paidAt": null,
+    "importance": 3
+  },
+  {
+    "id": "g4-1",
+    "text": "陈默实际有十二道裂痕（十一道灰线加一道暗红），林昭说“你数错了”暗示十二道有特殊含义，满十二道会怎样未明。",
+    "plantedAt": 4,
+    "dueBy": 10,
+    "paidAt": null,
+    "importance": 3
+  },
+  {
+    "id": "g4-2",
+    "text": "林昭否认下过今天的订单，但订单地址、餐品、隐私号都指向她，谁下的单未明。",
+    "plantedAt": 4,
+    "dueBy": 8,
+    "paidAt": null,
+    "importance": 2
+  },
+  {
+    "id": "g5-1",
+    "text": "骑手档案页十二格灰色计数条全亮，上一个满格的姓周，满格后果未明。",
+    "plantedAt": 5,
+    "dueBy": 10,
+    "paidAt": null,
+    "importance": 3
+  },
+  {
+    "id": "g5-2",
+    "text": "陈默手机时间跳回十分钟、定位电量信号同时重连的原因未明。",
+    "plantedAt": 5,
+    "dueBy": 8,
+    "paidAt": null,
+    "importance": 2
+  },
+  {
+    "id": "g6-1",
+    "text": "发黄纸条落款“明天”、笔迹是陈默自己的，老周昨天已见过，谁写的、为何出现未明。",
+    "plantedAt": 6,
+    "dueBy": 10,
+    "paidAt": null,
+    "importance": 3
+  },
+  {
+    "id": "g6-2",
+    "text": "断头巷人形餐箱响起的接单提示音地址与林昭订单相同，人形与订单的关系未明。",
+    "plantedAt": 6,
+    "dueBy": 9,
+    "paidAt": null,
+    "importance": 2
+  }
+]
